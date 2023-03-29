@@ -1,4 +1,4 @@
-package com.andretjuhh;
+package nl.andretjuhh;
 
 import java.io.IOException;
 import javafx.fxml.FXML;

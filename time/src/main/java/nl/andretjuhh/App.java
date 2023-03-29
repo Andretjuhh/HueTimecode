@@ -1,4 +1,4 @@
-package com.andretjuhh;
+package nl.andretjuhh;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
